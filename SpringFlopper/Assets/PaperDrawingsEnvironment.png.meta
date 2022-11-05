@@ -1,0 +1,1259 @@
+fileFormatVersion: 2
+guid: f39c9457df7c5974ea141bf610a1ea3f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 987
+        width: 417
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38e3af10584f5c4ba977d513f996747
+      internalID: 1674341422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1333
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af91d22253c4754fb04649e4ae3658f
+      internalID: -1081154298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1340
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fa6cf3e3a07684882afca3982fea98
+      internalID: 1753733753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1325
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f410968daa06b9145b1176e50ee0c9af
+      internalID: -2126205376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_4
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1340
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b5700656e8d549b9753c16920aa84
+      internalID: -2009895883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_5
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1337
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861b0a209c996924482fabcbb6133295
+      internalID: 1696251934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_6
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1329
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f16d1d16db5fe4a8559a6b3281af02
+      internalID: 504052189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_7
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1282
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2785e0de5234f8458186f2a7face084
+      internalID: 2082246959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_8
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1326
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a70e62da87e442b0903fd963b99bc
+      internalID: 890902354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_9
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1345
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99215142d3ff9f4b83a99eefdbd1381
+      internalID: 454399312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_10
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1259
+        width: 89
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d2d864db75d5f4db3688655bcfd14d
+      internalID: -1348467531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_11
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 975
+        width: 82
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31438ecdc8a8be9438a02982e57d2e51
+      internalID: -1099055406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_12
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1121
+        width: 159
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a695e3ef28da54faa37eb55407ac0c
+      internalID: 60036752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1122
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148dabffbfac4c34ea6dbb095b432d57
+      internalID: 1458874213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_14
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1136
+        width: 129
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390252509d84e084ab2c877cdda023da
+      internalID: 261372705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_15
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 982
+        width: 111
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade7c974e452dc34ebc42d88511072f7
+      internalID: -543134721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_16
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 976
+        width: 77
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de89e28c1f240564c8d083c3574f0d63
+      internalID: -1844267023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_17
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 969
+        width: 96
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c41d124be4efd149af6e84a8e914b79
+      internalID: -2062834997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_18
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 983
+        width: 183
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb32de228bce12a4f82bfe85032411b0
+      internalID: 119913631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_19
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 938
+        width: 158
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb44f2b993af04fb55286f2e97c14e
+      internalID: -359595007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 883
+        width: 415
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ab00c23aac0f6439c56a5014b2b34d
+      internalID: 1045392353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_21
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 764
+        width: 254
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f93f5f6494bab2478ded29be6b32e58
+      internalID: -1838214567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_22
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 763
+        width: 259
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179630107cefb7e4592bd2c00981541b
+      internalID: 2112622571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 830
+        width: 429
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cb5a2654a91774dadce6b60adf9132
+      internalID: -1187693627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 766
+        width: 432
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a3db6b77831934fad8bb854c17d5b5
+      internalID: 1182946157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 726
+        width: 428
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe4b92eea6486e41bfa059d920a7b2d
+      internalID: 1811700763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 677
+        width: 421
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed6f99c5fbbdda4abf3925385313798
+      internalID: 102164840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 639
+        width: 407
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b4d5efcb9e5074483585e31a8cf399
+      internalID: 1063087298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 321
+        width: 303
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12efb95c99f8674baba74f8cabe30ce
+      internalID: -1675520781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_29
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 431
+        width: 266
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16835cb887b096418177edf8090a6a3
+      internalID: -278620850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_30
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 0
+        width: 539
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27e1a7d990db47418a8188b1705d2bd
+      internalID: 1026549483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 319
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d76849c23dd6734fbaa09d5bf2dd8b8
+      internalID: -1253570781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_32
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 319
+        width: 164
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5174715bb3273e2408e1452a9c0d90be
+      internalID: 1038958195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_33
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 268
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c777e4cd1697904caa752080ac0f896
+      internalID: -695139623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 223
+        width: 113
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65675b00029d13f4e9eb56696ed5361d
+      internalID: 817017470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_35
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 207
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1317427d5eaeaef47812b8bc06fa5b8d
+      internalID: 1908072787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_36
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 258
+        width: 95
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0de0a5df8e84c459e7a1b4a715842a
+      internalID: -62613353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 214
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdf350b90588a94db7a9fb6f1a76fc7
+      internalID: 410907360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_38
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 219
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b29c202e4c59f449dd29a24d81b0c0
+      internalID: 957337425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 117
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f39ec78feca9c942996bf4475a0e70f
+      internalID: -1848151793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 119
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d735fb5e38008ed4cb96c717849722ff
+      internalID: -861278178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9024074acb71dd949add3681246a31f0
+      internalID: -1793188946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 120
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fba645305d7d444a32a618eb35dddb
+      internalID: -382638641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 120
+        width: 94
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf43d9abf8dffd4a8639212f1d70ade
+      internalID: -2143170155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_44
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 23
+        width: 109
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5b522603537b84ba00fcd2c768edc4
+      internalID: -1776269992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_45
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 6
+        width: 161
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c901ae20b43424c929c6a1b9009f84
+      internalID: 1933533735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_46
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 14
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a14b632b881e042be74f9011b54991
+      internalID: -1434346362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_47
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 5
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982862077d53a494d9f400930ffaa66d
+      internalID: -518620149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_48
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 4
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac84cde227e47c04fbe60bfac6c74bd3
+      internalID: 495047791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaperDrawingsEnvironment_49
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 8
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c387772bf02f3f4591d995a838a4eb1
+      internalID: 1002149862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PaperDrawingsEnvironment_33: -695139623
+      PaperDrawingsEnvironment_7: 2082246959
+      PaperDrawingsEnvironment_47: -518620149
+      PaperDrawingsEnvironment_29: -278620850
+      PaperDrawingsEnvironment_34: 817017470
+      PaperDrawingsEnvironment_37: 410907360
+      PaperDrawingsEnvironment_13: 1458874213
+      PaperDrawingsEnvironment_25: 1811700763
+      PaperDrawingsEnvironment_17: -2062834997
+      PaperDrawingsEnvironment_26: 102164840
+      PaperDrawingsEnvironment_36: -62613353
+      PaperDrawingsEnvironment_0: 1674341422
+      PaperDrawingsEnvironment_8: 890902354
+      PaperDrawingsEnvironment_27: 1063087298
+      PaperDrawingsEnvironment_45: 1933533735
+      PaperDrawingsEnvironment_6: 504052189
+      PaperDrawingsEnvironment_2: 1753733753
+      PaperDrawingsEnvironment_48: 495047791
+      PaperDrawingsEnvironment_38: 957337425
+      PaperDrawingsEnvironment_15: -543134721
+      PaperDrawingsEnvironment_46: -1434346362
+      PaperDrawingsEnvironment_16: -1844267023
+      PaperDrawingsEnvironment_42: -382638641
+      PaperDrawingsEnvironment_44: -1776269992
+      PaperDrawingsEnvironment_21: -1838214567
+      PaperDrawingsEnvironment_39: -1848151793
+      PaperDrawingsEnvironment_5: 1696251934
+      PaperDrawingsEnvironment_19: -359595007
+      PaperDrawingsEnvironment_28: -1675520781
+      PaperDrawingsEnvironment_12: 60036752
+      PaperDrawingsEnvironment_24: 1182946157
+      PaperDrawingsEnvironment_31: -1253570781
+      PaperDrawingsEnvironment_32: 1038958195
+      PaperDrawingsEnvironment_1: -1081154298
+      PaperDrawingsEnvironment_22: 2112622571
+      PaperDrawingsEnvironment_40: -861278178
+      PaperDrawingsEnvironment_4: -2009895883
+      PaperDrawingsEnvironment_11: -1099055406
+      PaperDrawingsEnvironment_20: 1045392353
+      PaperDrawingsEnvironment_49: 1002149862
+      PaperDrawingsEnvironment_18: 119913631
+      PaperDrawingsEnvironment_10: -1348467531
+      PaperDrawingsEnvironment_14: 261372705
+      PaperDrawingsEnvironment_30: 1026549483
+      PaperDrawingsEnvironment_41: -1793188946
+      PaperDrawingsEnvironment_23: -1187693627
+      PaperDrawingsEnvironment_3: -2126205376
+      PaperDrawingsEnvironment_9: 454399312
+      PaperDrawingsEnvironment_43: -2143170155
+      PaperDrawingsEnvironment_35: 1908072787
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
